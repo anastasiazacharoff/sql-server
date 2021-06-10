@@ -1,5 +1,5 @@
 
--- SQL Server, Azure Data Studio. Database Everyloop 
+-- SQL server
 -- Select columns and display successful missions
 SELECT 
     Spacecraft, 
